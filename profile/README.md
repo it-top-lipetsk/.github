@@ -1,6 +1,6 @@
 # Привествуем! Вы попали в аккаунт **Компьютерной академии TOP. Липецк**
 
-Наш сайт - https://irk.top-academy.ru/
+Наш сайт - https://lip.top-academy.ru/
 
 Аккаунты других филиалов Компьютерной академии TOP:
 - [Иркутск](https://github.com/it-top-irkutsk)
